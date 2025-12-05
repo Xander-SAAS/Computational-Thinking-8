@@ -1,0 +1,8 @@
+count=1
+import time
+def my_function():time
+print()
+while count > 0:
+    print(count)
+    count=count+count
+    time.sleep(.001)
